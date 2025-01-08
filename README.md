@@ -15,7 +15,7 @@ PIP install base4096
 or
 python -m pip install base4096
 
-Python is assumed installed as a dependency.  You may wish to utilize a virtual environment if you're like me and have trouble with paths and global settings:
+Python is assumed installed as a dependency.  You may wish to utilize a virtual environment if you're like me and have trouble with efficiently navigating paths and global installs:
 
 python -m venv venv
 
