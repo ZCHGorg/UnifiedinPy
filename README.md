@@ -1,5 +1,5 @@
 # UnifiedinPy
-To avoid float problems, higher and lower order scaling runs best in Base4096 or higher.  Scripts are more or less chronological.
+To avoid float problems, higher and lower order scaling runs best in Base4096 or higher.  Scripts are more or less chronological, though 8 is my current fav before more development.
 
 e.g. in CMD/Terminal:
 
